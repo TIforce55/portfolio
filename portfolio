@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meu Portfólio</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial; padding: 20px; background: #f2f2f2; }
+    h1 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Olá, eu sou Daniel Gaio</h1>
+  <p>Estudante de Sistemas para Internet, apaixonado por futebol, arte e tecnologia.</p>
+  <h2>Projetos</h2>
+  <ul>
+</body>
+</html>
